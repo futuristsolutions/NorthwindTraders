@@ -1,4 +1,4 @@
-# NorthwindTraders
+# NorthwindTraders (Clean Architecture)
 
 Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core. The architecture and design of the project is explained in the video:
 
